@@ -23,6 +23,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+    transition: transform .5s ease-in-out;
 }
 
 h1 {
@@ -44,6 +45,7 @@ h1 {
     position: absolute;
     top: 0;
     left: 35%;
+    transition: transform .5s ease-in-out;
 }
 
 .right-slide > div {
